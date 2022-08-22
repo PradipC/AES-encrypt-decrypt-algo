@@ -1,0 +1,1 @@
+INSERT INTO algorithm VALUES (1, 'Bar12345Bar12345','AES');    

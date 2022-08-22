@@ -1,0 +1,7 @@
+
+DROP TABLE IF EXISTS algorithm;  
+CREATE TABLE algorithm (  
+id INT AUTO_INCREMENT  PRIMARY KEY,  
+key VARCHAR(50) NOT NULL,  
+type VARCHAR(50) NOT NULL  
+);  
